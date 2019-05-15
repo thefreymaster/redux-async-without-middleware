@@ -1,3 +1,5 @@
+This project illustrates using Redux with an Async call, and updating state without using a middleware.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
